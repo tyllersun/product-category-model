@@ -1,5 +1,5 @@
 # product-category-model
-This project is done in 2020 summer intern at Data Innovation &amp; Application Research Center  @ Eastern Online
+This project is done in 2020 summer intern at Data Innovation &amp; Application Research Center  @ Eastern Online 
 
 There are several parts in this project
 * crawl data from hypermarket websites
@@ -9,7 +9,6 @@ There are several parts in this project
 * cut word by NLTK and Jieba
 * build Analytic Model to category products
 * test the analytic model by different dataset
-
 ---
 Files contained in this project 
 1. web_crawel_RTmarket.ipynb
@@ -22,3 +21,5 @@ Files contained in this project
 8. NLP categorize product
 9. Naive Bayes Classifier
 10. whole_data_analytics
+
+for more information, please see the pdf file
